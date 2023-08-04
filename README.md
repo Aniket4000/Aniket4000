@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket kutalpatil</h1>
 <h3 align="center">A passionate Java developer from Baramati</h3>
-< img align = “right”alt= "coading” width = “400” src “https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif”
+< img align = “right”alt= "coading” width = “400” src “![image](https://github.com/Aniket4000/Aniket4000/assets/138667127/c6b4378d-e52d-480c-a400-ef58fe8c4a55)
+”
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket4000&label=Profile%20views&color=0e75b6&style=flat" alt="aniket4000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket4000" alt="aniket4000" /></a> </p>
