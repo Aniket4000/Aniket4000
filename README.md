@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket kutalpatil</h1>
 <h3 align="center">A passionate Java developer from Baramati</h3>
-< img align = “right”alt= "coading” width = “400” src “![image](https://github.com/Aniket4000/Aniket4000/assets/138667127/c6b4378d-e52d-480c-a400-ef58fe8c4a55)
+< img align = “right”alt= "coading” width = “400” src “[![image](https://github.com/Aniket4000/Aniket4000/assets/138667127/c6b4378d-e52d-480c-a400-ef58fe8c4a55)](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 ”
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket4000&label=Profile%20views&color=0e75b6&style=flat" alt="aniket4000" /> </p>
 
